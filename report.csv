@@ -1,0 +1,4 @@
+penerima,pesan,status,raw_json
+"628998937095","test","Sukses","{""message_status"":""Success"",""data"":{""from"":""6285179781798"",""to"":""628998937095"",""id_user"":15,""body"":{""text"":""test""},""status_code"":200}}"
+"628998937095","test 2","Sukses","{""message_status"":""Success"",""data"":{""from"":""6285179781798"",""to"":""628998937095"",""id_user"":15,""body"":{""text"":""test 2""},""status_code"":200}}"
+"628998937095","test 3","Sukses","{""message_status"":""Success"",""data"":{""from"":""6285179781798"",""to"":""628998937095"",""id_user"":15,""body"":{""text"":""test 3""},""status_code"":200}}"
